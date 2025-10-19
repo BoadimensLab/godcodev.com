@@ -1,5 +1,6 @@
 {
-  "name": "Godcodev3D-portfolio",
+  "$schema": "https://json.schemastore.org/package",
+  "name": "godcodev3d-portfolio",
   "homepage": "https://BoadimensLab.github.io/godcodev.com/",
   "private": true,
   "version": "0.0.0",
